@@ -31,6 +31,8 @@
             <!-- Page Content -->
             <main>
                 {{ $slot }}
+                <p> Hola soy Hannya </p>
+                <p> Hola soy emmanuel </p>
             </main>
         </div>
     </body>
